@@ -55,6 +55,11 @@ User is already logged in with valid credentials.
 ---
 
 ## Attachments  
-- **Screenshot (PLP):** `/screenshots/saucedemo-backpack-plp.png`  
-- **Screenshot (PDP):** `/screenshots/saucedemo-backpack-pdp.png`  
-- **Screen Recording:** `/screen-recordings/saucedemo-backpack-image-price-issue.mp4`
+**Screenshot (PLP):**  
+![Sauce Labs Backpack PLP](../screenshots/saucedemo-backpack-plp.png)
+
+**Screenshot (PDP):**  
+![Sauce Labs Backpack PDP](../screenshots/saucedemo-backpack-pdp.png)
+
+**Screen Recording:**  
+[View Recording](../screen-records/saucedemo-backpack-image-price-issue.mp4)

@@ -56,6 +56,12 @@ Clicking the 'Remove' button does nothing:
 ---
 
 ## Attachments
-- Screenshot: `/screenshots/saucedemo-remove-button-plp.png`
-- Screenshot: `/screenshots/saucedemo-remove-button-pdp.png`
-- Screen Recording: `/screen-recordings/saucedemo-remove-button.mp4`
+
+**Screenshot (PLP):**  
+![Remove Button PLP](../screenshots/saucedemo-remove-button-plp.png)
+
+**Screenshot (PDP):**  
+![Remove Button PDP](../screenshots/saucedemo-remove-button-pdp.png)
+
+**Screen Recording:**  
+[View Recording](../screen-records/saucedemo-remove-button.mp4)
