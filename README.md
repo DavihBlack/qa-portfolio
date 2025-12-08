@@ -27,8 +27,8 @@ It includes real bugs from demo websites and simulated bugs for practice, along 
 
 ## 📌 How to Use
 1. Click on any bug report link to view the full report.  
-2. Check the `screenshots/` folder for images.  
-3. Check the `screen-records/` folder for videos showing the bugs in action.  
+2. Check the [screenshots](screenshots/) folder for images.  
+3. Check the [screen-records](screen-records/) folder for videos showing the bugs in action.
 
 ---
 
