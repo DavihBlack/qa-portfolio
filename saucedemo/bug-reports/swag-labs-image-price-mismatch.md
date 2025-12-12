@@ -14,10 +14,10 @@ On the Product Listing Page (PLP), the **“Sauce Labs Backpack”** product dis
 ---
 
 ## Severity  
-**Major**
+Major
 
 ## Priority  
-**Medium**
+Medium
 
 ---
 
@@ -56,10 +56,10 @@ User is already logged in with valid credentials.
 
 ## Attachments  
 **Screenshot (PLP):**  
-![Sauce Labs Backpack PLP](../screenshots/saucedemo-backpack-plp.png)
+![Sauce Labs Backpack PLP](../screenshots//screenshots-saucedemo/saucedemo-backpack-plp.png)
 
 **Screenshot (PDP):**  
-![Sauce Labs Backpack PDP](../screenshots/saucedemo-backpack-pdp.png)
+![Sauce Labs Backpack PDP](../screenshots//screenshots-saucedemo/saucedemo-backpack-pdp.png)
 
 **Screen Recording:**  
 [View Recording](../screen-records/saucedemo-backpack-image-price-issue.mp4)
