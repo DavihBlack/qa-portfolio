@@ -16,6 +16,6 @@ Navigation works correctly - The correct Buggy Cars Rating section loads.
 
 ## Attachments
 - **Screenshot:**
-![Buggy Cars Rating](../Screenshots/buggy-cars-model-car-rating-section.png)
+![Buggy Cars Rating](../screenshots/buggy-cars-model-car-rating-section.png)
 
 

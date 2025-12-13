@@ -11,7 +11,7 @@ This report summarizes the execution of the test cycle for Buggy Cars Rating, co
 
 | Test Case ID | Test Case Title | Status  | Actual Result | Bug Link |
 |--------------|----------------|--------|---------------|----------|
-| TC-001       | Verify that clicking on car models from any section navigates to the correct car model page | Fail | Page loads indefinitely when clicking on car models | [Bug Report](../../bug-reports/buggy-cars-model-loading-issue.md) |
+| TC-001       | Verify that clicking on car models from any section navigates to the correct car model page | Fail | Page loads indefinitely when clicking on car models | [Bug Report](../bug-reports/buggy-cars-model-loading-issue.md) |
 | TC-002       | Verify that clicking on Popular Make section navigates to the correct section | Passed | Navigation works correctly. The correct Popular Make section loads.
 | TC-003       | Verify that clicking on Overall Rating section navigates to the correct section | Passed | Navigation works correctly - The correct Buggy Cars Rating section loads.
 
@@ -36,5 +36,5 @@ This report summarizes the execution of the test cycle for Buggy Cars Rating, co
 ---
 
 ## Attachments
-- **Screenshots:** [screenshots](screenshots/)  
-- **Screen Recordings:** [screen-records](screen-records/)
+- **Screenshots:** [screenshots](../screenshots/)  
+- **Screen Recordings:** [screen-records](../screen-records/)
