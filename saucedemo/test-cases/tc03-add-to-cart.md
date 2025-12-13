@@ -21,10 +21,10 @@
 
 ## Attachments
 - **Screenshot (PLP Add to Cart):** 
-[Add to Cart PLP](../screenshots//screenshots-saucedemo/saucedemo-add-to-cart-plp.png) 
+![Add to Cart PLP](../screenshots//screenshots-saucedemo/saucedemo-add-to-cart-plp.png) 
 
 - **Screenshot (PDP Add to Cart):**   
-[Add to Cart PDP](../screenshots//screenshots-saucedemo/saucedemo-add-to-cart-pdp.png) 
+![Add to Cart PDP](../screenshots//screenshots-saucedemo/saucedemo-add-to-cart-pdp.png) 
 
 
 

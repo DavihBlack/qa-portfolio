@@ -22,11 +22,11 @@ High
 
 ## Attachments
 - **Screenshot (PLP):** 
-[Product Validation PLP](../screenshots//screenshots-saucedemo/sauce-remove-button-plp.png) 
+![Product Validation PLP](../screenshots//screenshots-saucedemo/sauce-remove-button-plp.png) 
 
 
 - **Screenshot (PDP):** 
-[Product Validation PDP](../screenshots//screenshots-saucedemo/sauce-remove-button-pdp.png)   
+![Product Validation PDP](../screenshots//screenshots-saucedemo/sauce-remove-button-pdp.png)   
 
 
 

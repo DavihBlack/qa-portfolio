@@ -1,7 +1,7 @@
 # Test Cycle Overview — SauceDemo E-Commerce Website
 
-**Cycle ID:** TCYCLE-01-SAUCEDEMO
-**Test Cycle Name:** Sauce Demo PDP, PLP & Cart Functionality
+**Test Cycle ID:** TCYCLE-01-SAUCEDEMO  
+**Test Cycle Name:** Sauce Demo PDP, PLP & Cart Functionality  
 **Date:** 2025-12-04  
 **Tester:** Fábio Silva  
 
@@ -65,9 +65,9 @@ The objective of this test cycle is to validate core functionalities of the Sauc
 ## Test Cases Included
 | Test Case ID | Title |
 |--------------|-------|
-| TC01         | Verify product images and prices consistency (PLP vs PDP) | 
-| TC02         | Verify “Remove” button functionality on PLP and PDP |
-| TC03         | Verify “Add to Cart” functionality from PLP and PDP |
+| TC01         | [Verify product images and prices consistency (PLP vs PDP)](../test-cases/tc01-product-validation-test-case.md) | 
+| TC02         | [Verify “Remove” button functionality on PLP and PDP](../test-cases/tc02-remove-button-test-case.md) |
+| TC03         | [Verify “Add to Cart” functionality from PLP and PDP](../test-cases/tc03-add-to-cart.md) |
 
 ---
 

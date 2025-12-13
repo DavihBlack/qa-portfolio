@@ -11,8 +11,8 @@ This report summarizes the execution of the test cycle for SauceDemo, covering P
 
 | Test Case ID | Test Case Title | Status               | Actual Result                  | Bug Link |
 |--------------|----------------|--------------------|--------------------------------|----------|
-| TC-001       | Product Validation | Fail | PLP shows incorrect image; price mismatch | [Bug Report](../../bug-reports/bug-reports-saucedemo/swag-labs-image-price-mismatch.md) |
-| TC-002       | Remove Button | Fail | Remove button does not work on some products | [Bug Report](../../bug-reports/bug-reports-saucedemo/saucedemo-remove-button.md) |
+| TC-001       | Product Validation | Fail | PLP shows incorrect image; price mismatch | [Bug Report](../bug-reports/swag-labs-image-price-mismatch.md) |
+| TC-002       | Remove Button | Fail | Remove button does not work on some products | [Bug Report](../bug-reports/saucedemo-remove-button.md) |
 | TC-003       | Add Product to Cart | Not Executed | *(Pending execution)* | — |
 
 ---
@@ -36,6 +36,6 @@ This report summarizes the execution of the test cycle for SauceDemo, covering P
 ---
 
 ## Attachments
-- **Screenshots:** [screenshots](screenshots/screenshots-saucedemo)
-- **Screen Recordings:** [screen-records](screen-records/screen-records-saucedemo)
+- **Screenshots:** [screenshots](../screenshots/screenshots-saucedemo)
+- **Screen Recordings:** [screen-records](../screen-records/)
 

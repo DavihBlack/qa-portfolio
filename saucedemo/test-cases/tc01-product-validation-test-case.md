@@ -23,9 +23,9 @@ Medium
 
 ## Attachments
 - **Screenshot (PLP):** 
-[Product Validation PLP](../screenshots/screenshots-saucedemo/product-validation-plp.png) 
+![Product Validation PLP](../screenshots/screenshots-saucedemo/product-validation-plp.png) 
 
 - **Screenshot (PDP):** 
-[Product Validation PDP](../screenshots//screenshots-saucedemo/product-validation-pdp.png) 
+![Product Validation PDP](../screenshots//screenshots-saucedemo/product-validation-pdp.png) 
 
 
