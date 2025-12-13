@@ -16,4 +16,4 @@ Navigation works correctly. The correct Popular Make section loads.
 
 ## Attachments
 - **Screenshot:** 
-[Popular Make Section](../Screenshots/baggy-cars-polpular-make-section.png)
+![Popular Make Section](../Screenshots/baggy-cars-polpular-make-section.png)
