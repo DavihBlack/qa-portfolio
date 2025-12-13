@@ -10,7 +10,7 @@ The goal is to demonstrate real-world QA practices, clear communication, and pro
 
 | Bug Report | Description | Evidence |
 |------------|-------------|----------|
-| [Clicking Any Car Model Causes the Page to Load Indefinitely](buggy-cars/bug-reports/buggy-cars-rating.md) | Page fails to load for all car models | Screenshot + Screen Recording |
+| [Clicking Any Car Model Causes the Page to Load Indefinitely](buggy-cars/bug-reports/buggy-cars-model-loading-issue.md) | Page fails to load for all car models | Screenshot + Screen Recording |
 | [PLP displays incorrect product image and inconsistent pricing compared to PDP for 'Sauce Labs Backpack'](saucedemo/bug-reports/swag-labs-image-price-mismatch.md) | The PLP displays an incorrect product image for "Sauce Labs Backpack" and the price shown on the PLP does not match the price shown on the corresponding PDP | Screenshot + Screen Recording |
 | [Remove Button Does Not Remove Product From the Cart in PLP and PDP](saucedemo/bug-reports/saucedemo-remove-button.md) | Clicking the 'Remove' button does not remove products from the cart on both PLP and PDP | Screenshot + Screen Recording |
 
