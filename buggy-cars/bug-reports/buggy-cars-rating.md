@@ -58,4 +58,4 @@ No model information is displayed and the browser continues to spin indefinitely
 
 ## Attachments  
 - **Screenshot:** ![Buggy Cars Model Loading Issue](../screenshots/buggy-cars-model-loading-issue.png) 
-- **Screen Recording:** [View Recording](../screen-records/buggy-cars-model-loading-issue.mp4)
+- **Screen Recording:** ![View Recording](../screen-records/buggy-cars-model-loading-issue.mp4)

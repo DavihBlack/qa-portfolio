@@ -20,6 +20,6 @@ Major
 
 ## Attachments
 - **Screenshot:** 
-[Buggy Cars Model Navigation](../screenshots/buggy-cars-model-navigation.png)  
+![Buggy Cars Model Navigation](../screenshots/buggy-cars-model-navigation.png)  
 
 
