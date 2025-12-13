@@ -41,7 +41,7 @@ The goal is to demonstrate real-world QA practices, clear communication, and pro
 
 ### **Buggy Cars Rating**
 - [Buggy Cars Navigation](buggy-cars/test-cases/tc-01-buggy-cars-navigation.md)  
-- [Popular Make Navigation](buggy-cars/test-cases/tc-002-popular-makemd.md)  
+- [Popular Make Navigation](buggy-cars/test-cases/tc-002-popular-make.md)  
 - [Overall Rating Navigation](buggy-cars/test-cases/tc-003-overall-rating.md)
 
 
