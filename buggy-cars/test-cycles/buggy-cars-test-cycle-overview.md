@@ -55,9 +55,9 @@ Verify that the Buggy Cars Rating website functions correctly, focusing on navig
 ## Test Cases Included
 | Test Case ID | Title |
 |--------------|-------|
-| TC-001       | [Verify that clicking on car models from any section navigates to the correct car model page](buggy-cars/test-cases/tc-01-buggy-cars-navigation.md) | 
-| TC-002       | [Verify that clicking on Popular Make section navigates to the correct section](buggy-cars/test-cases/tc-002-popular-make.md) | 
-| TC-003       | [Verify that clicking on Overall Rating section navigates to the correct section](buggy-cars/test-cases/tc-003-overall-rating.md)|
+| TC-001       | [Verify that clicking on car models from any section navigates to the correct car model page](../test-cases/tc-01-buggy-cars-navigation.md) | 
+| TC-002       | [Verify that clicking on Popular Make section navigates to the correct section](../test-cases/tc-002-popular-make.md) | 
+| TC-003       | [Verify that clicking on Overall Rating section navigates to the correct section](../test-cases/tc-003-overall-rating.md) |
  
 ---
 
@@ -78,4 +78,3 @@ Verify that the Buggy Cars Rating website functions correctly, focusing on navig
 - The website may contain occasional delays or unresponsive pages - testers should note these occurrences.  
 - Additional test cases may be added in future cycles as new features are implemented.
 
-[def]: buggy-cars/test-cases/tc-003-overall-rating.md
