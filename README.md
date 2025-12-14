@@ -6,6 +6,22 @@ The goal is to demonstrate real-world QA practices, clear communication, and pro
 
 ---
 
+## 🔒 Projects Tested (Confidential)
+
+The following projects were tested under NDA.  
+Client names and proprietary details are intentionally omitted.
+
+- **Online Casino Platforms (Web & Mobile)** — system integration testing, functional testing, end-to-end transaction flows  
+- **Social Media Platforms (Web & Mobile)** — system integration testing, functional testing, end-to-end feature validation  
+- **Cryptocurrency Exchange Platforms (Web & Mobile)** — system integration testing, functional testing, end-to-end transaction flows  
+- **E-commerce Platforms (Web & Mobile)** — smoke testing, regression testing, functional and exploratory testing, system integration testing (end-to-end), UX validation, bug reproduction  
+- **Online Streaming Platforms (Web, Mobile & TV)** — system integration testing, functional testing, end-to-end testing  
+- **Automotive Project (Web, Mobile & In-Vehicle)** — functional and system integration testing, end-to-end payment journeys, negative scenarios, bug reproduction  
+
+**Across all projects:** defect identification, detailed bug reporting and evidence collection.
+
+---
+
 ## 🐞 Included Bug Reports
 
 | Bug Report | Description | Evidence |
