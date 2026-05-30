@@ -1,8 +1,8 @@
 # QA Portfolio - Manual Testing
 
-Welcome to my QA portfolio!  
-This portfolio showcases my work as a Freelance Manual QA Tester, including structured documentation such as test cycles, test cases, execution reports, and bug reports.
-The goal is to demonstrate real-world QA practices, clear communication, and professional testing workflow.
+Welcome to my QA portfolio.
+I help identify critical issues, improve product quality and ensure reliable user experiences through structured testing, risk-based analysis and clear actionable reporting.
+This portfolio showcases real-world QA practices, including test cycles, test case design, execution reports, and detailed bug reports.
 
 ---
 
@@ -11,14 +11,47 @@ The goal is to demonstrate real-world QA practices, clear communication, and pro
 The following projects were tested under NDA.  
 Client names and proprietary details are intentionally omitted.
 
-- **Online Casino Platforms (Web & Mobile)** — system integration testing, functional testing, end-to-end transaction flows  
-- **Social Media Platforms (Web & Mobile)** — system integration testing, functional testing, end-to-end feature validation  
-- **Cryptocurrency Exchange Platforms (Web & Mobile)** — system integration testing, functional testing, end-to-end transaction flows  
-- **E-commerce Platforms (Web & Mobile)** — smoke testing, regression testing, functional and exploratory testing, system integration testing (end-to-end), UX validation, bug reproduction  
-- **Online Streaming Platforms (Web, Mobile & TV)** — system integration testing, functional testing, end-to-end testing  
-- **Automotive Project (Web, Mobile & In-Vehicle)** — functional and system integration testing, end-to-end payment journeys, negative scenarios, bug reproduction  
+- **Online Casino Platforms (Web & Mobile)** - performed end-to-end testing of transaction systems and gameplay-related features.
+- **Banking Platforms** - tested secure transaction flows, identity verification processes, and critical financial operations.  
+- **Social Media Platforms (Web & Mobile)** - validated user interactions, content flows and feature consistency.
+- **Fintech / Cryptocurrency Platforms (Web & Mobile)** - tested complex transaction flows (deposits, withdrawals, account actions), identity verification (KYC) processes, and reliability of high-risk operations.
+- **E-commerce Platforms (Web & Mobile)** - validated core user journeys such as product discovery, cart and checkout, focusing on revenue-impacting flows.
+- **Streaming Platforms (Web, Mobile & TV)** - ensured consistent behavior across devices and validated content access flows.
+- **Automotive Project (Web, Mobile & In-Vehicle)** - tested end-to-end payment journeys and real-world usage scenarios, including negative flows and edge cases.
 
-**Across all projects:** defect identification, detailed bug reporting and evidence collection.
+**Across all projects:** Defect identification, structured bug reporting, exploratory testing, validation of critical user flows, localization validation, and accessibility-focused testing where applicable.
+
+---
+
+## 🧠 Testing Approach
+My approach focuses on:
+- Risk-based testing and prioritization
+- Understanding business logic behind features
+- Validating critical user flows (authentication, payments, checkout)
+- Identifying edge cases and negative scenarios
+- Clear and structured communication of issues
+
+---
+
+## 🔄 QA Process & Traceability
+
+Beyond individual test cases and bug reports, I follow a structured QA process focused on traceability, risk management, and continuous quality improvement.
+
+My approach typically includes:
+
+* Requirements analysis and validation
+* User story and acceptance criteria review
+* Test condition design
+* Test suite organization
+* Risk-based test planning
+* Test execution tracking and reporting
+* Defect management and regression validation
+* Exploratory testing strategy and documentation
+* QA retrospectives and lessons learned
+* End-to-end traceability between requirements, user stories, test conditions, test cases, executions, and defects
+
+This portfolio contains examples of QA artifacts produced throughout that process. While project-specific documentation may be confidential, the examples presented here demonstrate my approach to quality assurance and software validation.
+
 
 ---
 
@@ -26,23 +59,33 @@ Client names and proprietary details are intentionally omitted.
 
 | Bug Report | Description | Evidence |
 |------------|-------------|----------|
-| [Clicking Any Car Model Causes the Page to Load Indefinitely](buggy-cars/bug-reports/buggy-cars-model-loading-issue.md) | Page fails to load for all car models | Screenshot + Screen Recording |
-| [PLP displays incorrect product image and inconsistent pricing compared to PDP for 'Sauce Labs Backpack'](saucedemo/bug-reports/swag-labs-image-price-mismatch.md) | The PLP displays an incorrect product image for "Sauce Labs Backpack" and the price shown on the PLP does not match the price shown on the corresponding PDP | Screenshot + Screen Recording |
-| [Remove Button Does Not Remove Product From the Cart in PLP and PDP](saucedemo/bug-reports/saucedemo-remove-button.md) | Clicking the 'Remove' button does not remove products from the cart on both PLP and PDP | Screenshot + Screen Recording |
+| [Clicking Any Car Model Causes the Page to Load Indefinitely](buggy-cars/bug-reports/buggy-cars-model-loading-issue.md) | Identified a critical issue where selecting any car model results in infinite loading, blocking navigation and preventing access to key features | Screenshot + Screen Recording |
+| [PLP displays incorrect product image and inconsistent pricing compared to PDP for 'Sauce Labs Backpack'](saucedemo/bug-reports/swag-labs-image-price-mismatch.md) | Product image and pricing mismatch between PLP and PDP, leading to inconsistent user experience and potential trust issues | Screenshot + Screen Recording |
+| [Remove Button Does Not Remove Product From the Cart in PLP and PDP](saucedemo/bug-reports/saucedemo-remove-button.md) | Clicking "Remove" does not update cart state, impacting cart reliability and user actions | Screenshot + Screen Recording |
 
 ---
 
 ## 🧪 Test Cycles Included
 
 ### **SauceDemo**
-- Covers PLP, PDP, cart actions, product validations and consistency checks.
-- Includes: **entry criteria, exit criteria, test data, environment, scope, risks.**
+Covers product validation, cart functionality, and consistency checks across PLP and PDP.
+Includes:
+- Entry & exit criteria
+- Test data
+- Scope & risks
+- Execution results
 - **Link to Test Cycle Overview:** [SauceDemo Test Cycle](saucedemo/test-cycles/saucedemo-test-cycle-overview.md)  
 - **Link to Test Execution Report:** [SauceDemo Execution](saucedemo/test-cases/test-execution-report-saucedemo.md)
 
+  
+
 ### **Buggy Cars Rating**
-- Focused on navigation and page load behavior.
-- Includes: **entry criteria, exit criteria, test data, scope, risks.**
+Focused on navigation behavior and system stability.
+Includes:
+- Entry & exit criteria
+- Test data
+- Scope & risks
+- Execution results
 - **Link to Test Cycle Overview:** [Buggy Cars Test Cycle](buggy-cars/test-cycles/buggy-cars-test-cycle-overview.md)  
 - **Link to Test Execution Report:** [Buggy Cars Execution](buggy-cars/test-cases/test-execution-report-buggy-cars.md)
 
@@ -64,14 +107,37 @@ Client names and proprietary details are intentionally omitted.
 ---
 
 
+## 💼 Services | Offer
+- Functional testing (Web & Mobile)
+- Test planning and QA strategy definition (scope, risks, priorities)
+- Test case design and execution
+- Exploratory testing focused on real user behavior and edge cases
+- Detailed bug reporting with clear reproduction steps and evidence
+- Validation of critical flows (authentication, checkout, payments)
+- Requirement analysis and validation (business rules, edge cases and risk coverage)
+- Localization testing and language quality validation (PT-PT)
+- Accessibility-focused testing and assistive technology validation
+
+
+---
+
+
 ## 🛠 Skills Demonstrated
-- Writing structured test cases  
-- Building traceable end-to-end test cycles  
-- Executing tests and documenting results  
-- Defect discovery & bug reporting  
-- Severity/Priority evaluation  
-- Evidence capturing (screenshots, videos)  
-- Organizing QA documentation cleanly and professionally  
+- Requirements analysis and validation
+- Risk-based test planning and prioritization
+- Test condition design and coverage definition
+- Structured test case design
+- End-to-end test cycle creation
+- Test execution and reporting
+- Exploratory testing and scenario analysis
+- Defect identification, prioritization, and regression validation
+- Localization testing and language quality validation (PT-PT)
+- Accessibility testing and assistive technology validation
+- Traceability management across requirements, testing activities, and defects
+- Evidence collection (screenshots, recordings, and supporting artifacts)
+- Clear and professional QA documentation
+- QA process design and continuous improvement practices
+
 
 ---
 
