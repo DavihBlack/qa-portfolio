@@ -16,6 +16,7 @@ Client names and proprietary details are intentionally omitted.
 - **Social Media Platforms (Web & Mobile)** - validated user interactions, content flows and feature consistency.
 - **Fintech / Cryptocurrency Platforms (Web & Mobile)** - tested complex transaction flows (deposits, withdrawals, account actions), identity verification (KYC) processes, and reliability of high-risk operations.
 - **E-commerce Platforms (Web & Mobile)** - validated core user journeys such as product discovery, cart and checkout, focusing on revenue-impacting flows.
+- - **Logistics & Fulfillment Applications** - validated inventory management, stock control, order preparation, fulfillment workflows, order lifecycle management and operational processes supporting e-commerce operations.
 - **Streaming Platforms (Web, Mobile & TV)** - ensured consistent behavior across devices and validated content access flows.
 - **Automotive Project (Web, Mobile & In-Vehicle)** - tested end-to-end payment journeys and real-world usage scenarios, including negative flows and edge cases.
 
