@@ -118,6 +118,7 @@ Includes:
 - Requirement analysis and validation (business rules, edge cases and risk coverage)
 - Localization testing and language quality validation (PT-PT)
 - Accessibility-focused testing and assistive technology validation
+- API testing and backend validation using Postman
 
 
 ---
@@ -138,6 +139,7 @@ Includes:
 - Evidence collection (screenshots, recordings, and supporting artifacts)
 - Clear and professional QA documentation
 - QA process design and continuous improvement practices
+- API testing and request/response validation (Postman)
 
 
 ---
