@@ -28,7 +28,7 @@ Automation projects are organized by framework so each implementation can be rev
 
 End-to-end web automation using Cypress and JavaScript, covering positive and negative scenarios, reusable test data, application state validation and real application behavior.
 
-Repository link will be added once the project is ready for review.
+[View Cypress Automation Portfolio](https://github.com/DavihBlack/cypress-automation-portfolio)
 
 #### Selenium
 
@@ -204,10 +204,13 @@ I can support projects with:
 
 Each main QA area is kept in its own repository so projects can be reviewed independently, while this repository remains the central navigation point.
 
+Current portfolio projects:
+
+- [Manual Testing](https://github.com/DavihBlack/manual-qa-portfolio)
+- [Cypress Automation](https://github.com/DavihBlack/cypress-automation-portfolio)
+
 Current and planned areas:
 
-- Manual Testing
-- Cypress
-- Selenium
+- Selenium Automation
 - API Testing
 - Database Testing
